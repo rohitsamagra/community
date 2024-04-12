@@ -3,15 +3,11 @@ description: >-
   The Skill Passport contains capabilities of capturing user competencies and 360 degree feedback with an option to integrate with Course Marketplace for skilling and 3rd party assessments for testing progress.
 ---
 
-# Skill Passport Capabilities
+# What is Skill Passport? Why is it required?
 
-#### Capability to View and Share Verifiable Credentials
-
-The user can view his progress at competencies within a position/activity/role as per assessments and also feedback from his peers. User can also use this as a verficiable credential to share across. This capability enables users to track learning against the required competency and also share ahead as a proof of indicating progress against certain competencies.
-
-#### Capability to Understand Gaps and Improve Skills
-
-The learner can review the competencies which are required for his role and understand the gaps his current level. Using this the user can complete relevant courses and do assessments to show his progress against a competency.
+The skill passport is meant to be a repository of the competencies of a user. It would contain the user’s job roles with requirements, the competency levels achieved till date, along with Self-assessment, End of course(CBP) assessments and Proctored Independent and Authorized Assessment (PIAA) scores and certificates. It would be accessed by employees through a mobile app (developed as part of Compass DPG: https://github.com/compass-core-platform).
+The skill passport will take the data related to required competencies, self-assessment, CBP and PIAA scores, from FRAC, PIAA and marketplace modules and will be accessed by the employee on the mobile app. Along with this, WPCAS data will also be displayed which will be taken from the WPCAS module.
+The major driver of developing such a module is to enable the users to have a one-stop shop to view and share all their competencies from the same place. This would be useful for users to understand gaps and improve their skills to become more competent professionals. They will also use this feature to share their performance to other necessary stakeholders, like workplaces. The workplaces would be able to verify the authenticity of such documents readily as these documents will have the relevant authority credentials. 
 
 <div>
 
