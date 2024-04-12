@@ -1,8 +1,6 @@
 # What is Skill Passport? Why is it required?
 
----
-  The Skill Passport contains capabilities of capturing user competencies and 360 degree feedback with an option to integrate with Course Marketplace for skilling and 3rd party assessments for testing progress.
----
+The Skill Passport contains capabilities of capturing user competencies and 360 degree feedback with an option to integrate with Course Marketplace for skilling and 3rd party assessments for testing progress.
 
 The skill passport is meant to be a repository of the competencies of a user. It would contain the user’s job roles with requirements, the competency levels achieved till date, along with Self-assessment, End of course(CBP) assessments and Proctored Independent and Authorized Assessment (PIAA) scores and certificates. It would be accessed by employees through a mobile app (developed as part of Compass DPG: https://github.com/compass-core-platform).
 
