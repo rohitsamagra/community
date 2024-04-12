@@ -18,7 +18,7 @@ The major driver of developing such a module is to enable the users to have a on
 
 <img width="313" alt="Screenshot 2024-04-12 at 6 19 04 PM" src="https://github.com/rohitsamagra/community/assets/145356240/749eeded-c033-4aea-bd20-9adc33f338b1">
 
-* *Competency Passbook will be changed in the above images
+* *Competency Passbook will be changed to Skill Passport in the above images
 
 </div>
 
