@@ -3,23 +3,15 @@ description: >-
   The Skill Passport contains capabilities of capturing user competencies and 360 degree feedback with an option to integrate with Course Marketplace for skilling and 3rd party assessments for testing progress.
 ---
 
-# ULP Capabilities
+# Skill Passport Capabilities
 
-#### Capability to Issue Credentials
+#### Capability to View and Share Verifiable Credentials
 
-The issuer is responsible for creating and issuing credentials to learners. This capability enables educational institutions, organisations, or individuals to define and issue various types of credentials, such as certificates, marksheets, or badges. The issuer can associate the credential with specific learning achievements or qualifications. ULP enables issuing of credentials in two cases -
+The user can view his progress at competencies within a position/activity/role as per assessments and also feedback from his peers. User can also use this as a verficiable credential to share across. This capability enables users to track learning against the required competency and also share ahead as a proof of indicating progress against certain competencies.
 
-* **Case 1: The State has an established learners' database**
+#### Capability to Understand Gaps and Improve Skills
 
-If the State has an existing learners' database following a specified schema (e.g., Prerna Portal in UP), they can leverage the same by using ULP’s Extract Credentials service. This service extracts the learners' credentials from the database and creates them in the Credential Store.
-
-* **Case 2: The State does not have an established learners' database**
-
-In this case, the State lacks an existing source of accurate information about learners. However, educational organisations can still issue credentials by following a different approach. They can upload a .CSV file in the specified format to a designated URL. This file contains the required credentials of the learners. Upon uploading, the credentials will be created and stored in the Credential Store.
-
-#### Capability to Receive and Share Credentials
-
-The learner represents the recipient of the credentials. This capability allows individuals to receive and store their earned credentials securely. Learners can access their digital credentials through a user-friendly interface (called ULP Wallet), which provides a comprehensive overview of their achievements and qualifications. They can easily share their credentials with employers, educational institutions, or other stakeholders to demonstrate their skills and accomplishments.
+The learner can review the competencies which are required for his role and understand the gaps his current level. Using this the user can complete relevant courses and do assessments to show his progress against a competency.
 
 <div>
 
