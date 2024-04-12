@@ -15,32 +15,11 @@ The learner can review the competencies which are required for his role and unde
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (7) (4).png" alt="" width="188"><figcaption></figcaption></figure>
+<img width="350" alt="Screenshot 2024-04-12 at 12 31 09 PM" src="https://github.com/rohitsamagra/community/assets/145356240/73a12dd9-6b19-4311-b11a-2bbe6956dcca"><figcaption></figcaption>
 
- 
+<img width="345" alt="Screenshot 2024-04-12 at 12 32 31 PM" src="https://github.com/rohitsamagra/community/assets/145356240/f9768701-1e5f-4546-9d73-5cfe43f98261">
 
-<figure><img src="../../.gitbook/assets/image (18) (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<img width="356" alt="Screenshot 2024-04-12 at 12 32 49 PM" src="https://github.com/rohitsamagra/community/assets/145356240/4ce14ae5-12b7-451d-9095-bfff8df26315">
 
- 
-
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
-
-**Capability to Verify Credentials and take Informed Decisions**
-
-The verifier plays a crucial role in ensuring the authenticity and validity of the issued credentials. This capability allows individuals or entities, such as employers or educational institutions, to verify the authenticity of a learner's credentials. By leveraging sunbird RC verification services and APIs the verifier can confirm that the credentials have not been tampered with and that they originate from a trusted issuer. Verifiers can use the provided APIs or interfaces to perform real-time verification checks and retrieve the necessary information to make informed decisions.
-
-<div>
-
-<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/image (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 </div>
